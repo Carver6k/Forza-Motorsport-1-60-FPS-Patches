@@ -1,6 +1,6 @@
 ## Installation
 
-These patches can be applied to default.xbe using Lunaru IPS (https://www.romhacking.net/utilities/240/)
+These patches can be applied to default.xbe using Lunar IPS (https://www.romhacking.net/utilities/240/)
 
 If you're applying the patch to the base game, use forza_60fps_1.05.03.28.59858.ips,
 if you're applying the patch to the title update, use forza_60fps_1.05.10.17.60164.ips.
